@@ -1,0 +1,2 @@
+# gitGROUPtest
+Git lecture activity
